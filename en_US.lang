@@ -71,6 +71,7 @@ gui.appliedenergistics2.security.craft.tip=User can initiate new crafting jobs.
 gui.appliedenergistics2.security.build.tip=User can modify the physical structure of the network, and make configuration changes.
 gui.appliedenergistics2.security.security.tip=User can access and modify the security terminal of the network.
 
+gui.appliedenergistics2.Wireless=Wireless Access Point
 gui.appliedenergistics2.WirelessTerminal=Wireless Term
 gui.appliedenergistics2.NoPermissions=No Permissions Selected
 gui.appliedenergistics2.SecurityCardEditor=Biometric Card Editor

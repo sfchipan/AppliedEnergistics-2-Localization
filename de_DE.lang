@@ -52,6 +52,7 @@ chat.appliedenergistics2.AmmoDepleted=Munition verbraucht
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Fassaden
 
+gui.appliedenergistics2.CraftingTerminal=Fertigungskonsole
 gui.appliedenergistics2.METunnel=ME
 gui.appliedenergistics2.ItemTunnel=Item
 gui.appliedenergistics2.FluidTunnel=Flüssigkeit
@@ -71,7 +72,7 @@ gui.appliedenergistics2.security.craft.tip=Der Nutzer darf Fertigungsanforderung
 gui.appliedenergistics2.security.build.tip=Der Nutzer darf die physische Struktur des Netzwerks verändern und Konfigurationsänderungen vornehmen.
 gui.appliedenergistics2.security.security.tip=Der Nutzer darf auf die Sicherheitskonsole des Netzwerks zugreifen.
 
-gui.appliedenergistics2.WirelessTerminal=Drahtlose Konsole
+gui.appliedenergistics2.WirelessTerminal=Drahtloskonsole
 gui.appliedenergistics2.NoPermissions=Keine Erlaubnis ausgewählt
 gui.appliedenergistics2.SecurityCardEditor=Biometrischer Karteneditor
 gui.appliedenergistics2.Encoded=Verschlüsselt

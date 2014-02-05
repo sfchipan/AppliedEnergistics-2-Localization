@@ -52,6 +52,7 @@ chat.appliedenergistics2.AmmoDepleted=Ammo Depleted
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Facades
 
+gui.appliedenergistics2.CraftingTerminal=Crafting Terminal
 gui.appliedenergistics2.METunnel=ME
 gui.appliedenergistics2.ItemTunnel=Item
 gui.appliedenergistics2.FluidTunnel=Fluid

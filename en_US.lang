@@ -47,7 +47,9 @@ chat.appliedenergistics2.DeviceNotPowered=Device is low on power.
 chat.appliedenergistics2.MachineNotPowered=Machine is not powered.
 chat.appliedenergistics2.CommunicationError=Error Communicating with Network.
 chat.appliedenergistics2.SavedSettings=Successfully saved settings.
-chat.appliedenergistics2.AmmoDepleted=Ammo Depleted
+chat.appliedenergistics2.AmmoDepleted=Ammo Depleted.
+chat.appliedenergistics2.isNowLocked=Monitor is now Locked.
+chat.appliedenergistics2.isNowUnlocked=Monitor is now Unlocked.
 
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Facades

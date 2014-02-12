@@ -47,7 +47,9 @@ chat.appliedenergistics2.DeviceNotPowered=Gerät hat zu wenig Energie
 chat.appliedenergistics2.MachineNotPowered=Maschine bekommt keine Energie.
 chat.appliedenergistics2.CommunicationError=Fehler beim Kommunizieren mit dem Netzwerk.
 chat.appliedenergistics2.SavedSettings=Einstellungen erfolgreich gespeichert.
-chat.appliedenergistics2.AmmoDepleted=Munition verbraucht
+chat.appliedenergistics2.AmmoDepleted=Munition verbraucht.
+chat.appliedenergistics2.isNowLocked=Monitor ist nun gesperrt.
+chat.appliedenergistics2.isNowUnlocked=Monitor ist nun entsperrt.
 
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Fassaden

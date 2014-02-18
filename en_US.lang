@@ -106,6 +106,7 @@ gui.appliedenergistics2.SpatialIOPort=Spatial IO Port
 gui.appliedenergistics2.StoredEnergy=Stored Energy
 gui.appliedenergistics2.StoredItems=Stored Items
 gui.appliedenergistics2.Terminal=Terminal
+gui.appliedenergistics2.FormationPlane=Formation Plane
 gui.appliedenergistics2.VibrationChamber=Vibration Chamber
 gui.appliedenergistics2.NetworkDetails=Network Details
 gui.appliedenergistics2.StorageCells=ME Storage Cells

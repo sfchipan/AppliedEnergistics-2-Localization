@@ -199,6 +199,14 @@ gui.appliedenergistics2.Red=Red
 gui.appliedenergistics2.Black=Black
 gui.appliedenergistics2.Fluix=Fluix
 
+waila.appliedenergistics2.DeviceOnline=Device Online
+waila.appliedenergistics2.DeviceOffline=Device Offline
+waila.appliedenergistics2.DeviceMissingChannel=Device Missing Channel
+waila.appliedenergistics2.Locked=Locked
+waila.appliedenergistics2.Unlocked=Unlocked
+waila.appliedenergistics2.Showing=Showing
+waila.appliedenergistics2.Contains=Contains
+
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=1k ME Storage Cell
 item.appliedenergistics2.ItemBasicStorageCell.4k.name=4k ME Storage Cell
 item.appliedenergistics2.ItemBasicStorageCell.16k.name=16k ME Storage Cell

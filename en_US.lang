@@ -173,6 +173,9 @@ gui.tooltips.appliedenergistics2.Blocking=Do not push crafing items if inventory
 gui.tooltips.appliedenergistics2.NonBlocking=Ignore the contents of the target inventory.
 gui.tooltips.appliedenergistics2.Craft=Craft items when needed while exporting.
 gui.tooltips.appliedenergistics2.DontCraft=Only use stocked items while exporting.
+gui.tooltips.appliedenergistics2.LevelType=Level Type
+gui.tooltips.appliedenergistics2.LevelType_Energy=Energy
+gui.tooltips.appliedenergistics2.LevelType_Item=Item
 
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules

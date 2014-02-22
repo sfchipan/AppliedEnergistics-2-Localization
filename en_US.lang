@@ -33,11 +33,7 @@ tile.appliedenergistics2.BlockWireless.name=ME Wireless Access Point
 tile.appliedenergistics2.OreQuartz.name=Certus Quartz Ore
 tile.appliedenergistics2.OreQuartzCharged.name=Charged Certus Quartz Ore
 tile.appliedenergistics2.BlockSecurity.name=ME Security Terminal
-tile.appliedenergistics2.BlockContainmentWall.name=
-tile.appliedenergistics2.BlockCraftingAccelerator.name=
-tile.appliedenergistics2.BlockHeatVent.name=
-tile.appliedenergistics2.BlockPatternProvider.name=
-tile.appliedenergistics2.BlockQuartzCrystalizer.name=
+tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=Crystal Growth Accelerator
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
 chat.appliedenergistics2.OutOfRange=Wireless Out Of Range

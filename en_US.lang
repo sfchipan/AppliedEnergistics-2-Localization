@@ -70,6 +70,8 @@ gui.appliedenergistics2.security.craft.tip=User can initiate new crafting jobs.
 gui.appliedenergistics2.security.build.tip=User can modify the physical structure of the network, and make configuration changes.
 gui.appliedenergistics2.security.security.tip=User can access and modify the security terminal of the network.
 
+gui.appliedenergistics2.QuartzCuttingKnife=Quartz Cutting Knife
+gui.appliedenergistics2.Inscriber=Inscriber
 gui.appliedenergistics2.Wireless=Wireless Access Point
 gui.appliedenergistics2.WirelessTerminal=Wireless Term
 gui.appliedenergistics2.NoPermissions=No Permissions Selected
@@ -261,6 +263,15 @@ item.appliedenergistics2.ItemMaterial.Singularity.name=Singularity
 item.appliedenergistics2.ItemMaterial.Wireless.name=Wireless Terminal
 item.appliedenergistics2.ItemMaterial.WirelessBooster.name=Wireless Booster
 item.appliedenergistics2.ItemMaterial.WoodenGear.name=Wooden Gear
+item.appliedenergistics2.ItemMaterial.EngProcessorPress.name=Inscriber Engineering Press
+item.appliedenergistics2.ItemMaterial.CalcProcessorPress.name=Inscriber Calculation Press
+item.appliedenergistics2.ItemMaterial.LogicProcessorPress.name=Inscriber Logic Press
+item.appliedenergistics2.ItemMaterial.EngProcessorPrint.name=Printed Engineering Circuit
+item.appliedenergistics2.ItemMaterial.CalcProcessorPrint.name=Printed Calculation Circuit
+item.appliedenergistics2.ItemMaterial.LogicProcessorPrint.name=Printed Logic Circuit
+item.appliedenergistics2.ItemMaterial.SiliconPress.name=Inscriber Silicon Press 
+item.appliedenergistics2.ItemMaterial.SiliconPrint.name=Printed Silicon
+item.appliedenergistics2.ItemMaterial.NamePress.name=Inscriber Name Press
 
 item.appliedenergistics2.ItemPart.AnnihilationPlane.name=Annihilation Plane
 item.appliedenergistics2.ItemPart.CableAnchor.name=Cable Anchor

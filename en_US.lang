@@ -174,6 +174,7 @@ gui.tooltips.appliedenergistics2.DontCraft=Only use stocked items while exportin
 gui.tooltips.appliedenergistics2.LevelType=Level Type
 gui.tooltips.appliedenergistics2.LevelType_Energy=Energy
 gui.tooltips.appliedenergistics2.LevelType_Item=Item
+gui.tooltips.appliedenergistics2.InventoryTweaks=Inventory Tweaks
 
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules

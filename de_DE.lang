@@ -174,6 +174,7 @@ gui.tooltips.appliedenergistics2.DontCraft=Nutze nur Items aus dem Speicher für
 gui.tooltips.appliedenergistics2.LevelType=Level-Typ
 gui.tooltips.appliedenergistics2.LevelType_Energy=Energie
 gui.tooltips.appliedenergistics2.LevelType_Item=Item
+gui.tooltips.appliedenergistics2.InventoryTweaks=Inventory Tweaks
 
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules

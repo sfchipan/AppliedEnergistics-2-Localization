@@ -34,7 +34,7 @@ tile.appliedenergistics2.OreQuartz.name=Certus Quartz Ore
 tile.appliedenergistics2.OreQuartzCharged.name=Charged Certus Quartz Ore
 tile.appliedenergistics2.BlockSecurity.name=ME Security Terminal
 tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=Crystal Growth Accelerator
-tile.appliedenergistics2.BlockSkyRock.name=Sky Stone
+tile.appliedenergistics2.BlockSkyStone.name=Sky Stone
 tile.appliedenergistics2.BlockSkyChest.name=Sky Stone Chest
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
@@ -116,7 +116,7 @@ gui.appliedenergistics2.Types=Types
 gui.appliedenergistics2.Blank=Blank
 gui.appliedenergistics2.Unlinked=Unlinked
 gui.appliedenergistics2.Linked=Linked
-gui.appliedenergistics2.SkyChest=Sky Rock Chest
+gui.appliedenergistics2.SkyChest=Sky Stone Chest
 
 gui.tooltips.appliedenergistics2.FuzzyMode=Fuzzy Comparison
 gui.tooltips.appliedenergistics2.FZPercent_25=Split Damage at 25%

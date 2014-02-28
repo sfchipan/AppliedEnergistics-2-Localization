@@ -34,6 +34,8 @@ tile.appliedenergistics2.OreQuartz.name=Certus-Quarzerz
 tile.appliedenergistics2.OreQuartzCharged.name=Geladenes Certus-Quarzerz
 tile.appliedenergistics2.BlockSecurity.name=ME-Sicherheitskonsole
 tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=Kristallwachstumsbeschleuniger
+tile.appliedenergistics2.BlockSkyRock.name=Himmelsstein
+tile.appliedenergistics2.BlockSkyChest.name=Himmelssteintruhe
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME-Truhe kann Speicherzelle nicht einlesen.
 chat.appliedenergistics2.OutOfRange=Drahloser Zugangspunkt außer Reichweite
@@ -114,6 +116,7 @@ gui.appliedenergistics2.Types=Typen
 gui.appliedenergistics2.Blank=Leer
 gui.appliedenergistics2.Unlinked=Nicht verbunden
 gui.appliedenergistics2.Linked=Verbunden
+gui.appliedenergistics2.SkyChest=Himmelssteintruhe
 
 gui.tooltips.appliedenergistics2.FuzzyMode=Ungenauer Vergleich
 gui.tooltips.appliedenergistics2.FZPercent_25=Aufteilen bei 25%

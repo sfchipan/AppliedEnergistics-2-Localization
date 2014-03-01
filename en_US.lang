@@ -35,7 +35,11 @@ tile.appliedenergistics2.OreQuartzCharged.name=Charged Certus Quartz Ore
 tile.appliedenergistics2.BlockSecurity.name=ME Security Terminal
 tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=Crystal Growth Accelerator
 tile.appliedenergistics2.BlockSkyStone.name=Sky Stone
+tile.appliedenergistics2.BlockSkyStone.Block.name=Sky Stone Block
+tile.appliedenergistics2.BlockSkyStone.Brick.name=Sky Stone Brick
+tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Sky Stone Small Brick
 tile.appliedenergistics2.BlockSkyChest.name=Sky Stone Chest
+tile.appliedenergistics2.BlockSkyChest.Block.name=Sky Stone Block Chest
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
 chat.appliedenergistics2.OutOfRange=Wireless Out Of Range

@@ -34,8 +34,12 @@ tile.appliedenergistics2.OreQuartz.name=Certus-Quarzerz
 tile.appliedenergistics2.OreQuartzCharged.name=Geladenes Certus-Quarzerz
 tile.appliedenergistics2.BlockSecurity.name=ME-Sicherheitskonsole
 tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=Kristallwachstumsbeschleuniger
-tile.appliedenergistics2.BlockSkyRock.name=Himmelsstein
+tile.appliedenergistics2.BlockSkyStone.name=Himmelsstein
+tile.appliedenergistics2.BlockSkyStone.Block.name=Himmelssteinblock
+tile.appliedenergistics2.BlockSkyStone.Brick.name=Himmelssteinziegel
+tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Kleine Himmelssteinziegel
 tile.appliedenergistics2.BlockSkyChest.name=Himmelssteintruhe
+tile.appliedenergistics2.BlockSkyChest.Block.name=Himmelssteinblocktruhe
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME-Truhe kann Speicherzelle nicht einlesen.
 chat.appliedenergistics2.OutOfRange=Drahloser Zugangspunkt außer Reichweite

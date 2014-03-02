@@ -40,6 +40,7 @@ tile.appliedenergistics2.BlockSkyStone.Brick.name=Sky Stone Brick
 tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Sky Stone Small Brick
 tile.appliedenergistics2.BlockSkyChest.name=Sky Stone Chest
 tile.appliedenergistics2.BlockSkyChest.Block.name=Sky Stone Block Chest
+tile.appliedenergistics2.BlockSkyCompass.name=Meteorite Compass
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
 chat.appliedenergistics2.OutOfRange=Wireless Out Of Range

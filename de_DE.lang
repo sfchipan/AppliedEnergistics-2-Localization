@@ -223,6 +223,7 @@ item.appliedenergistics2.ItemBasicStorageCell.16k.name=16k-ME-Speicherzelle
 item.appliedenergistics2.ItemBasicStorageCell.64k.name=64k-ME-Speicherzelle
 item.appliedenergistics2.ItemCreativeStorageCell.name=Kreative ME-Speicherzelle
 item.appliedenergistics2.ItemEncodedPattern.name=Kodierte ME-Schablone
+item.appliedenergistics2.ItemViewCell.name=Sichtzelle
 item.appliedenergistics2.ItemFacade.name=Kabelfassade
 
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=Certus-Quarzsamen
@@ -281,6 +282,7 @@ item.appliedenergistics2.ItemMaterial.LogicProcessorPrint.name=Gedruckter Logiks
 item.appliedenergistics2.ItemMaterial.SiliconPress.name=Gravur-Siliziumdruck
 item.appliedenergistics2.ItemMaterial.SiliconPrint.name=Gedrucktes Silizium
 item.appliedenergistics2.ItemMaterial.NamePress.name=Schreiber-Namensdruck
+item.appliedenergistics2.ItemMaterial.SkyDust.name=Himmelssteinstaub
 
 item.appliedenergistics2.ItemPart.AnnihilationPlane.name=Annihilationsfeld
 item.appliedenergistics2.ItemPart.CableAnchor.name=Kabelanker

@@ -223,6 +223,7 @@ item.appliedenergistics2.ItemBasicStorageCell.16k.name=16k ME Storage Cell
 item.appliedenergistics2.ItemBasicStorageCell.64k.name=64k ME Storage Cell
 item.appliedenergistics2.ItemCreativeStorageCell.name=Creative ME Storage Cell
 item.appliedenergistics2.ItemEncodedPattern.name=Encoded Pattern
+item.appliedenergistics2.ItemViewCell.name=View Cell
 item.appliedenergistics2.ItemFacade.name=Cable Facade
 
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=Certus Quartz Seed
@@ -281,6 +282,7 @@ item.appliedenergistics2.ItemMaterial.LogicProcessorPrint.name=Printed Logic Cir
 item.appliedenergistics2.ItemMaterial.SiliconPress.name=Inscriber Silicon Press 
 item.appliedenergistics2.ItemMaterial.SiliconPrint.name=Printed Silicon
 item.appliedenergistics2.ItemMaterial.NamePress.name=Inscriber Name Press
+item.appliedenergistics2.ItemMaterial.SkyDust.name=Sky Stone Dust
 
 item.appliedenergistics2.ItemPart.AnnihilationPlane.name=Annihilation Plane
 item.appliedenergistics2.ItemPart.CableAnchor.name=Cable Anchor

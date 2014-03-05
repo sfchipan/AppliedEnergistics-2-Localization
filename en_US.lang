@@ -121,6 +121,7 @@ gui.appliedenergistics2.Types=Types
 gui.appliedenergistics2.Blank=Blank
 gui.appliedenergistics2.Unlinked=Unlinked
 gui.appliedenergistics2.Linked=Linked
+gui.appliedenergistics2.StoredSize=Stored Size
 gui.appliedenergistics2.SkyChest=Sky Stone Chest
 
 gui.tooltips.appliedenergistics2.FuzzyMode=Fuzzy Comparison

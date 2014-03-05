@@ -121,6 +121,7 @@ gui.appliedenergistics2.Types=Typen
 gui.appliedenergistics2.Blank=Leer
 gui.appliedenergistics2.Unlinked=Nicht verbunden
 gui.appliedenergistics2.Linked=Verbunden
+gui.appliedenergistics2.StoredSize=Gespeicherte Größe
 gui.appliedenergistics2.SkyChest=Himmelssteintruhe
 
 gui.tooltips.appliedenergistics2.FuzzyMode=Ungenauer Vergleich

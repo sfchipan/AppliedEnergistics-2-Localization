@@ -77,6 +77,10 @@ gui.appliedenergistics2.security.craft.tip=Der Nutzer darf Fertigungsanforderung
 gui.appliedenergistics2.security.build.tip=Der Nutzer darf die physische Struktur des Netzwerks verändern und Konfigurationsänderungen vornehmen.
 gui.appliedenergistics2.security.security.tip=Der Nutzer darf auf die Sicherheitskonsole des Netzwerks zugreifen.
 
+gui.appliedenergistics2.Efficiency=Effizienz
+gui.appliedenergistics2.RequiredPower=Benötigte Energie
+gui.appliedenergistics2.StoredPower=Gespeicherte Energie
+gui.appliedenergistics2.MaxPower=Max Energie
 gui.appliedenergistics2.QuartzCuttingKnife=Quarzmeißel
 gui.appliedenergistics2.Inscriber=Gravurdrucker
 gui.appliedenergistics2.Wireless=Drahtloser Zugangspunkt

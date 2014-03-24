@@ -228,7 +228,7 @@ item.appliedenergistics2.ItemBasicStorageCell.16k.name=16k МЭ Ячейка Х�
 item.appliedenergistics2.ItemBasicStorageCell.64k.name=64k МЭ Ячейка Хранения
 item.appliedenergistics2.ItemCreativeStorageCell.name=Творческая МЭ Ячейка Хранения
 item.appliedenergistics2.ItemEncodedPattern.name=Кодированный Образец
-item.appliedenergistics2.ItemViewCell.name=View Cell
+item.appliedenergistics2.ItemViewCell.name=Ячейка Представления
 item.appliedenergistics2.ItemFacade.name=Кабельный Фасад
 
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=Семя Истинного Кварца
@@ -275,7 +275,7 @@ item.appliedenergistics2.ItemMaterial.PureifiedNetherQuartzCrystal.name=Чист
 item.appliedenergistics2.ItemMaterial.QESingularity.name=Квантово Запутанная Сингулярность
 item.appliedenergistics2.ItemMaterial.Silicon.name=Кремний
 item.appliedenergistics2.ItemMaterial.Singularity.name=Сингулярность
-item.appliedenergistics2.ItemMaterial.Wireless.name=Безпроводной Терминал
+item.appliedenergistics2.ItemMaterial.Wireless.name=Безпроводной Приёмник
 item.appliedenergistics2.ItemMaterial.WirelessBooster.name=Безпроводной Усилитель
 item.appliedenergistics2.ItemMaterial.WoodenGear.name=Деревянная Шестерня
 item.appliedenergistics2.ItemMaterial.EngProcessorPress.name=Пресс Инженерный для Высекателя

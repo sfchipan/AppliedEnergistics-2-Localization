@@ -188,6 +188,10 @@ gui.tooltips.appliedenergistics2.LevelType=Level-Typ
 gui.tooltips.appliedenergistics2.LevelType_Energy=Energie
 gui.tooltips.appliedenergistics2.LevelType_Item=Item
 gui.tooltips.appliedenergistics2.InventoryTweaks=Inventory Tweaks
+gui.tooltips.appliedenergistics2.TerminalStyle=Konsolen-Stil
+gui.tooltips.appliedenergistics2.TerminalStyle_Full=Vollbildschirmskonsole
+gui.tooltips.appliedenergistics2.TerminalStyle_Tall=Hohe zentrierte Konsole
+gui.tooltips.appliedenergistics2.TerminalStyle_Small=Kleine zentrierte Konsole
 
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules

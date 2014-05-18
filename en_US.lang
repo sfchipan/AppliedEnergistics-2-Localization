@@ -41,6 +41,10 @@ tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Sky Stone Small Brick
 tile.appliedenergistics2.BlockSkyChest.name=Sky Stone Chest
 tile.appliedenergistics2.BlockSkyChest.Block.name=Sky Stone Block Chest
 tile.appliedenergistics2.BlockSkyCompass.name=Meteorite Compass
+tile.appliedenergistics2.BlockCraftingMonitor.name=Crafting Monitor
+tile.appliedenergistics2.BlockCraftingStorage.name=Crafting Storage
+tile.appliedenergistics2.BlockCraftingAccelerator.name=Crafting Processing Unit
+tile.appliedenergistics2.BlockCraftingUnit.name=Crafting Unit
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
 chat.appliedenergistics2.OutOfRange=Wireless Out Of Range
@@ -121,6 +125,7 @@ gui.appliedenergistics2.VibrationChamber=Vibration Chamber
 gui.appliedenergistics2.NetworkDetails=Network Details
 gui.appliedenergistics2.StorageCells=ME Storage Cells
 gui.appliedenergistics2.IOBuses=ME Import/Export Bus
+gui.appliedenergistics2.Stores=Stores
 gui.appliedenergistics2.BytesUsed=Bytes Used
 gui.appliedenergistics2.Types=Types
 gui.appliedenergistics2.Blank=Blank
@@ -143,6 +148,8 @@ gui.appliedenergistics2.inWorldSingularity=To create drop 1 Singularity and 1 En
 gui.appliedenergistics2.OfSecondOutput=% Chance for second output.
 gui.appliedenergistics2.NoSecondOutput=No Secondary Output
 
+gui.tooltips.appliedenergistics2.Stash=Store Items
+gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.
 gui.tooltips.appliedenergistics2.Substitutions=Ore-Dict Substitutions
 gui.tooltips.appliedenergistics2.SubstitutionsDesc=Edit substitution options for input components.
 gui.tooltips.appliedenergistics2.SubstitutionsOn=Substitutions Enabled

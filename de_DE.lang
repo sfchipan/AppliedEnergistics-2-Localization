@@ -41,6 +41,10 @@ tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Kleine Himmelssteinziegel
 tile.appliedenergistics2.BlockSkyChest.name=Himmelssteintruhe
 tile.appliedenergistics2.BlockSkyChest.Block.name=Himmelssteinblocktruhe
 tile.appliedenergistics2.BlockSkyCompass.name=Meteoritenkompass
+tile.appliedenergistics2.BlockCraftingMonitor.name=Fertigungsmonitor
+tile.appliedenergistics2.BlockCraftingStorage.name=Fertigungsspeicher
+tile.appliedenergistics2.BlockCraftingAccelerator.name=Fertigungs-Prozessoreinheit
+tile.appliedenergistics2.BlockCraftingUnit.name=Fertigungseinheit
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME-Truhe kann Speicherzelle nicht einlesen.
 chat.appliedenergistics2.OutOfRange=Drahloser Zugangspunkt außer Reichweite
@@ -121,6 +125,7 @@ gui.appliedenergistics2.VibrationChamber=Vibrationskammer
 gui.appliedenergistics2.NetworkDetails=Netzwerkdetails
 gui.appliedenergistics2.StorageCells=ME-Speicherzellen
 gui.appliedenergistics2.IOBuses=ME-Import-/Exportbus
+gui.appliedenergistics2.Stores=Speichert
 gui.appliedenergistics2.BytesUsed=Genutzte Bytes
 gui.appliedenergistics2.Types=Typen
 gui.appliedenergistics2.Blank=Leer
@@ -143,6 +148,8 @@ gui.appliedenergistics2.inWorldSingularity=Wirf zum Erschaffen 1 Singularität u
 gui.appliedenergistics2.OfSecondOutput=% Chance für Nebenprodukt.
 gui.appliedenergistics2.NoSecondOutput=Kein Nebenprodukt
 
+gui.tooltips.appliedenergistics2.Stash=Items lagern
+gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.
 gui.tooltips.appliedenergistics2.Substitutions=Ore-Dict-Ersetzung
 gui.tooltips.appliedenergistics2.SubstitutionsDesc=Ersetzungsoptionen für Eingangskomponenten ändern
 gui.tooltips.appliedenergistics2.SubstitutionsOn=Ersetzung aktiviert

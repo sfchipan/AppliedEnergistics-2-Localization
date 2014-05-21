@@ -42,7 +42,7 @@ tile.appliedenergistics2.BlockSkyChest.name=Himmelssteintruhe
 tile.appliedenergistics2.BlockSkyChest.Block.name=Himmelssteinblocktruhe
 tile.appliedenergistics2.BlockSkyCompass.name=Meteoritenkompass
 tile.appliedenergistics2.BlockCraftingMonitor.name=Fertigungsmonitor
-tile.appliedenergistics2.BlockCraftingStorage.name=Fertigungsspeicehr
+tile.appliedenergistics2.BlockCraftingStorage.name=Fertigungsspeicher
 tile.appliedenergistics2.BlockCraftingAccelerator.name=Fertigungs-Prozessoreinheit
 tile.appliedenergistics2.BlockCraftingUnit.name=Fertigungseinheit
 

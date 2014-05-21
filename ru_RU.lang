@@ -41,6 +41,10 @@ tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=Малый кирпич �
 tile.appliedenergistics2.BlockSkyChest.name=Сундук из небесного камня
 tile.appliedenergistics2.BlockSkyChest.Block.name=Сундук из блока небесного камня
 tile.appliedenergistics2.BlockSkyCompass.name=Метеоритный компас
+tile.appliedenergistics2.BlockCraftingMonitor.name=Монитор создания
+tile.appliedenergistics2.BlockCraftingStorage.name=Хранилище создания
+tile.appliedenergistics2.BlockCraftingAccelerator.name=Блок обработки создания
+tile.appliedenergistics2.BlockCraftingUnit.name=Блок создания
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=МЭ сундук не может прочитать ячейку хранения.
 chat.appliedenergistics2.OutOfRange=Беспроводная сеть вне зоны
@@ -121,6 +125,7 @@ gui.appliedenergistics2.VibrationChamber=Вибрационная камера
 gui.appliedenergistics2.NetworkDetails=Подробности сети
 gui.appliedenergistics2.StorageCells=МЭ ячейки хранения
 gui.appliedenergistics2.IOBuses=МЭ шина импорта\экспорта
+gui.appliedenergistics2.Stores=Хранит
 gui.appliedenergistics2.BytesUsed=байт(ов) использовано
 gui.appliedenergistics2.Types=типов
 gui.appliedenergistics2.Blank=Чистый
@@ -143,6 +148,8 @@ gui.appliedenergistics2.inWorldSingularity=Чтобы сделать, брось
 gui.appliedenergistics2.OfSecondOutput=% шанс вторичного вывода.
 gui.appliedenergistics2.NoSecondOutput=Нет вторичного вывода
 
+gui.tooltips.appliedenergistics2.Stash=Хранить предметы
+gui.tooltips.appliedenergistics2.StashDesc=Возвращает предметы на сетку создания, в сетевое хранилище.
 gui.tooltips.appliedenergistics2.Substitutions=Ore-Dict замещения
 gui.tooltips.appliedenergistics2.SubstitutionsDesc=Измените замещения для вводимых компонентов.
 gui.tooltips.appliedenergistics2.SubstitutionsOn=Замещения включены

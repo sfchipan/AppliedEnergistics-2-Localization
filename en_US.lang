@@ -151,6 +151,10 @@ gui.appliedenergistics2.inWorldPurification=Drop any Crystal Seed made from Crys
 gui.appliedenergistics2.inWorldSingularity=To create drop 1 Singularity and 1 Ender Dust and cause an explosion within range of the items.
 gui.appliedenergistics2.OfSecondOutput=% Chance for second output.
 gui.appliedenergistics2.NoSecondOutput=No Secondary Output
+gui.appliedenergistics2.SelectAmount=Select Amount
+gui.appliedenergistics2.Next=Next
+gui.appliedenergistics2.Lumen=Lumen
+gui.appliedenergistics2.Empty=Empty
 
 gui.tooltips.appliedenergistics2.Stash=Store Items
 gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.
@@ -331,6 +335,10 @@ item.appliedenergistics2.ItemPart.CableCovered.name=ME Covered Cable
 item.appliedenergistics2.ItemPart.CableGlass.name=ME Glass Cable
 item.appliedenergistics2.ItemPart.CableSmart.name=ME Smart Cable
 item.appliedenergistics2.ItemPart.CableDense.name=ME Dense Cable
+item.appliedenergistics2.ItemPart.LumenCableCovered.name=ME Lumen Covered Cable
+item.appliedenergistics2.ItemPart.LumenCableGlass.name=ME Lumen Glass Cable
+item.appliedenergistics2.ItemPart.LumenCableSmart.name=ME Lumen Smart Cable
+item.appliedenergistics2.ItemPart.LumenCableDense.name=ME Lumen Dense Cable
 item.appliedenergistics2.ItemPart.StorageMonitor.name=ME Storage Monitor
 item.appliedenergistics2.ItemPart.ConversionMonitor.name=ME Conversion Monitor
 item.appliedenergistics2.ItemPart.CraftingTerminal.name=ME Crafting Terminal
@@ -371,12 +379,14 @@ item.appliedenergistics2.ToolNetherQuartzSpade.name=Nether Quartz Shovel
 item.appliedenergistics2.ToolNetherQuartzSword.name=Nether Quartz Sword
 item.appliedenergistics2.ToolNetherQuartzWrench.name=Nether Quartz Wrench
 
+item.appliedenergistics2.ItemPaintBall.name=Paint Ball
 item.appliedenergistics2.ToolPortableCell.name=Portable Cell
 item.appliedenergistics2.ToolNetworkTool.name=Network Tool
 item.appliedenergistics2.ToolChargedStaff.name=Charged Staff
 item.appliedenergistics2.ToolEntropyManipulator.name=Entropy Manipulator
 item.appliedenergistics2.ToolMassCannon.name=Matter Cannon
 item.appliedenergistics2.ToolMemoryCard.name=Memory Card
+item.appliedenergistics2.ToolColorApplicator.name=Color Applicator
 item.appliedenergistics2.ToolWirelessTerminal.name=Wireless Terminal
 item.appliedenergistics2.ToolBiometricCard.name=Biometric Card
 

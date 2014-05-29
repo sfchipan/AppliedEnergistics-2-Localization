@@ -42,11 +42,15 @@ tile.appliedenergistics2.BlockSkyChest.name=Himmelssteintruhe
 tile.appliedenergistics2.BlockSkyChest.Block.name=Himmelssteinblocktruhe
 tile.appliedenergistics2.BlockSkyCompass.name=Meteoritenkompass
 tile.appliedenergistics2.BlockCraftingMonitor.name=Fertigungsmonitor
-tile.appliedenergistics2.BlockCraftingStorage.name=Fertigungsspeicher
+tile.appliedenergistics2.BlockCraftingStorage.name=1k-Fertigungsspeicher
+tile.appliedenergistics2.BlockCraftingStorage4k.name=4k-Fertigungsspeicher
+tile.appliedenergistics2.BlockCraftingStorage16k.name=16k-Fertigungsspeicher
+tile.appliedenergistics2.BlockCraftingStorage64k.name=64k-Fertigungsspeicher
 tile.appliedenergistics2.BlockCraftingAccelerator.name=Fertigungs-Prozessoreinheit
 tile.appliedenergistics2.BlockCraftingUnit.name=Fertigungseinheit
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME-Truhe kann Speicherzelle nicht einlesen.
+chat.appliedenergistics2.SettingCleared=Einstellung gelöscht
 chat.appliedenergistics2.OutOfRange=Drahloser Zugangspunkt außer Reichweite
 chat.appliedenergistics2.InvalidMachine=Ungültige Maschine
 chat.appliedenergistics2.LoadedSettings=Einstellungen erfolgreich geladen.

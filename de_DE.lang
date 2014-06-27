@@ -15,7 +15,6 @@ tile.appliedenergistics2.BlockMatrixFrame.name=Matrixrahmen
 tile.appliedenergistics2.BlockIOPort.name=ME-IO-Port
 tile.appliedenergistics2.BlockInscriber.name=Gravurmaschine
 tile.appliedenergistics2.BlockInterface.name=ME-Schnittstelle
-tile.appliedenergistics2.BlockNetworkEmitter.name=ME-Netzwerkemitter
 tile.appliedenergistics2.BlockQuantumLinkChamber.name=ME-Quantentunnelkammer
 tile.appliedenergistics2.BlockQuantumRing.name=ME-Quantentunnelring
 tile.appliedenergistics2.BlockFluix.name=Fluix-Block

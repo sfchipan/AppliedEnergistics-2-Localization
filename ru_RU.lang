@@ -47,6 +47,7 @@ tile.appliedenergistics2.BlockCraftingStorage16k.name=16К хранилище с
 tile.appliedenergistics2.BlockCraftingStorage64k.name=64К хранилище создания
 tile.appliedenergistics2.BlockCraftingAccelerator.name=Блок обработки создания
 tile.appliedenergistics2.BlockCraftingUnit.name=Блок создания
+tile.appliedenergistics2.BlockMolecularAssembler.name=Молекулярный сборщик
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=МЭ сундук не может прочитать ячейку хранения.
 chat.appliedenergistics2.SettingCleared=Настройки сброшены.
@@ -123,6 +124,7 @@ gui.appliedenergistics2.SpatialIOPort=Пространственный порт 
 gui.appliedenergistics2.StoredEnergy=Запасённая энергия
 gui.appliedenergistics2.StoredItems=Хранящиеся предметы
 gui.appliedenergistics2.Terminal=Терминал
+gui.appliedenergistics2.InterfaceTerminal=Интерфейс терминала
 gui.appliedenergistics2.FormationPlane=Плоскость формирования
 gui.appliedenergistics2.VibrationChamber=Вибрационная камера
 gui.appliedenergistics2.NetworkDetails=Подробности сети

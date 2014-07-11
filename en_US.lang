@@ -156,6 +156,8 @@ gui.appliedenergistics2.ChargedQuartz=Charged Certus Quartz is crafted by insert
 gui.appliedenergistics2.OfSecondOutput=% Chance for second output.
 gui.appliedenergistics2.NoSecondOutput=No Secondary Output
 gui.appliedenergistics2.SelectAmount=Select Amount
+gui.appliedenergistics2.CopyMode=Copy Mode
+gui.appliedenergistics2.CopyModeDesc=Controls if the contents of the configuration pane are cleared when you remove the cell.
 gui.appliedenergistics2.Next=Next
 gui.appliedenergistics2.Lumen=Lumen
 gui.appliedenergistics2.Empty=Empty
@@ -174,6 +176,7 @@ gui.appliedenergistics2.Bytes=Storage
 gui.appliedenergistics2.Simulation=Simulation
 gui.appliedenergistics2.CoProcessors=Co Processors
 gui.appliedenergistics2.CraftingCPU=Crafting CPU
+gui.appliedenergistics2.NoCraftingCPUs=No Crafting CPUs are Available
 gui.appliedenergistics2.CalculatingWait=Calculating Please Wait...
 
 gui.tooltips.appliedenergistics2.Stash=Store Items

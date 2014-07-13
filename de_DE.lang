@@ -156,6 +156,8 @@ gui.appliedenergistics2.ChargedQuartz=Geladener Certusquarz entsteht durch Einf�
 gui.appliedenergistics2.OfSecondOutput=% Chance für Nebenprodukt.
 gui.appliedenergistics2.NoSecondOutput=Kein Nebenprodukt
 gui.appliedenergistics2.SelectAmount=Menge wählen
+gui.appliedenergistics2.CopyMode=Kopiermodus
+gui.appliedenergistics2.CopyModeDesc=Kontrolliert, ob der Inhalt der Konfigurationsfläche entfernt werden, wenn du die Zelle entfernst.
 gui.appliedenergistics2.Next=Weiter
 gui.appliedenergistics2.Lumen=Lumen
 gui.appliedenergistics2.Empty=Leer
@@ -174,6 +176,7 @@ gui.appliedenergistics2.Bytes=Speicher
 gui.appliedenergistics2.Simulation=Simulation
 gui.appliedenergistics2.CoProcessors=Co-Prozessoren
 gui.appliedenergistics2.CraftingCPU=Fertigungs-CPU
+gui.appliedenergistics2.NoCraftingCPUs=Keine Fertigungs-CPUs verfügbar
 gui.appliedenergistics2.CalculatingWait=Berechnung, bitte warten...
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
@@ -349,8 +352,9 @@ item.appliedenergistics2.ItemMaterial.SiliconPress.name=Gravur-Siliziumdruck
 item.appliedenergistics2.ItemMaterial.SiliconPrint.name=Gedrucktes Silizium
 item.appliedenergistics2.ItemMaterial.NamePress.name=Schreiber-Namensdruck
 item.appliedenergistics2.ItemMaterial.SkyDust.name=Himmelssteinstaub
+item.appliedenergistics2.ItemMaterial.CardCrafting.name=Fertigungskarte
 
-item.appliedenergistics2.ItemPart.AnnihilationPlane.name=Annihilationsfeld
+item.appliedenergistics2.ItemPart.AnnihilationPlane.name=ME-Annihilationsfeld
 item.appliedenergistics2.ItemPart.CableAnchor.name=Kabelanker
 item.appliedenergistics2.ItemPart.CableCovered.name=Verdecktes ME-Kabel
 item.appliedenergistics2.ItemPart.CableGlass.name=ME-Glaskabel
@@ -375,6 +379,7 @@ item.appliedenergistics2.ItemPart.Terminal.name=ME-Konsole
 item.appliedenergistics2.ItemPart.InvertedToggleBus.name=Invertierter ME-Wechselbus
 item.appliedenergistics2.ItemPart.ToggleBus.name=ME-Wechselbus
 item.appliedenergistics2.ItemPart.CraftingMonitor.name=ME-Fertigungsmonitor
+item.appliedenergistics2.ItemPart.InterfaceTerminal.name=ME-Schnittstellenmonitor
 
 item.appliedenergistics2.ItemSpatialStorageCell.128Cubed.name=128³-Raumspeicherzelle
 item.appliedenergistics2.ItemSpatialStorageCell.16Cubed.name=16³-Raumspeicherzelle

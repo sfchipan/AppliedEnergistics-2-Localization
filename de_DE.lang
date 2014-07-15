@@ -68,11 +68,12 @@ itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Fassaden
 gui.appliedenergistics2.CraftingTerminal=Fertigungskonsole
 gui.appliedenergistics2.METunnel=ME
 gui.appliedenergistics2.ItemTunnel=Item
-gui.appliedenergistics2.FluidTunnel=Flüssigkeit
+gui.appliedenergistics2.FluidTunnel=Flüssigkeiten
 gui.appliedenergistics2.RedstoneTunnel=Redstone
 gui.appliedenergistics2.MJTunnel=MJ
 gui.appliedenergistics2.EUTunnel=EU
 gui.appliedenergistics2.RFTunnel=RF
+gui.appliedenergistics2.LightTunnel=Licht
 
 gui.appliedenergistics2.security.extract.name=Extrahieren
 gui.appliedenergistics2.security.inject.name=Deponieren

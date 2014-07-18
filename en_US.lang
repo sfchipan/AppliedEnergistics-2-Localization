@@ -24,6 +24,7 @@ tile.appliedenergistics2.BlockQuartzGlass.name=Quartz Glass
 tile.appliedenergistics2.BlockQuartzLamp.name=Vibrant Quartz Glass
 tile.appliedenergistics2.BlockQuartzPillar.name=Certus Quartz Pillar
 tile.appliedenergistics2.BlockQuartzTorch.name=Charged Quartz Fixture
+tile.appliedenergistics2.BlockLightDetector.name=Light Detecting Fixture
 tile.appliedenergistics2.BlockSpatialIOPort.name=Spatial IO Port
 tile.appliedenergistics2.BlockSpatialPylon.name=Spatial Pylon
 tile.appliedenergistics2.BlockTinyTNT.name=Tiny TNT

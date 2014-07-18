@@ -50,9 +50,9 @@ tile.appliedenergistics2.BlockCraftingUnit.name=Crafting Unit
 tile.appliedenergistics2.BlockMolecularAssembler.name=Molecular Assembler
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
-chat.appliedenergistics2.SettingCleared=Setting Cleared
-chat.appliedenergistics2.OutOfRange=Wireless Out Of Range
-chat.appliedenergistics2.InvalidMachine=Invalid Machine
+chat.appliedenergistics2.SettingCleared=Setting Cleared.
+chat.appliedenergistics2.OutOfRange=Wireless Out Of Range.
+chat.appliedenergistics2.InvalidMachine=Invalid Machine.
 chat.appliedenergistics2.LoadedSettings=Successfully loaded settings.
 chat.appliedenergistics2.DeviceNotPowered=Device is low on power.
 chat.appliedenergistics2.MachineNotPowered=Machine is not powered.

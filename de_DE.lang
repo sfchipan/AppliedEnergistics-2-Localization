@@ -180,6 +180,7 @@ gui.appliedenergistics2.CoProcessors=Co-Prozessoren
 gui.appliedenergistics2.CraftingCPU=Fertigungs-CPU
 gui.appliedenergistics2.NoCraftingCPUs=Keine Fertigungs-CPUs verfügbar
 gui.appliedenergistics2.CalculatingWait=Berechnung, bitte warten...
+gui.appliedenergistics2.Clean=Löschen
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.
@@ -287,6 +288,7 @@ waila.appliedenergistics2.Locked=Gesperrt
 waila.appliedenergistics2.Unlocked=Entsperrt
 waila.appliedenergistics2.Showing=Zeigt
 waila.appliedenergistics2.Contains=Enthält
+waila.appliedenergistics2.Channels=Kanäle
 
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=1k-ME-Speicherzelle
 item.appliedenergistics2.ItemBasicStorageCell.4k.name=4k-ME-Speicherzelle

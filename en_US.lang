@@ -181,6 +181,7 @@ gui.appliedenergistics2.CraftingCPU=Crafting CPU
 gui.appliedenergistics2.NoCraftingCPUs=No Crafting CPUs are Available
 gui.appliedenergistics2.CalculatingWait=Calculating Please Wait...
 gui.appliedenergistics2.Clean=Clean
+gui.appliedenergistics2.InvalidPattern=Invalid Pattern
 
 gui.tooltips.appliedenergistics2.Stash=Store Items
 gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.

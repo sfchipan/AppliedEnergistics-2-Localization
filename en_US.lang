@@ -259,7 +259,7 @@ gui.tooltips.appliedenergistics2.TerminalStyle_Small=Small Centered Terminal
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules
 gui.appliedenergistics2.units.ic2=Energy Units
-gui.appliedenergistics2.units.universalelectricity=Kilo Joules
+gui.appliedenergistics2.units.mekanism=Joules
 gui.appliedenergistics2.units.rotarycraft=Watts
 gui.appliedenergistics2.units.thermalexpansion=Redstone Flux
 

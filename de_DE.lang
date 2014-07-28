@@ -181,6 +181,7 @@ gui.appliedenergistics2.CraftingCPU=Fertigungs-CPU
 gui.appliedenergistics2.NoCraftingCPUs=Keine Fertigungs-CPUs verfügbar
 gui.appliedenergistics2.CalculatingWait=Berechnung, bitte warten...
 gui.appliedenergistics2.Clean=Löschen
+gui.appliedenergistics2.InvalidPattern=Ungültige Schablone
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.
@@ -259,7 +260,7 @@ gui.tooltips.appliedenergistics2.TerminalStyle_Small=Kleine zentrierte Konsole
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules
 gui.appliedenergistics2.units.ic2=Energy Units
-gui.appliedenergistics2.units.universalelectricity=Kilojoule
+gui.appliedenergistics2.units.mekanism=Joules
 gui.appliedenergistics2.units.rotarycraft=Watt
 gui.appliedenergistics2.units.thermalexpansion=Redstone Flux
 

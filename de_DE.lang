@@ -127,6 +127,7 @@ gui.appliedenergistics2.StoredEnergy=Gespeicherte Energie
 gui.appliedenergistics2.StoredItems=Gespeicherte Items
 gui.appliedenergistics2.Terminal=Konsole
 gui.appliedenergistics2.InterfaceTerminal=Interface-Konsole
+gui.appliedenergistics2.InterfaceTerminalHint=Zeige oder verstecke die Interface-Konsole.
 gui.appliedenergistics2.FormationPlane=Formationsfläche
 gui.appliedenergistics2.VibrationChamber=Vibrationskammer
 gui.appliedenergistics2.NetworkDetails=Netzwerkdetails

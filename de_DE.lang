@@ -183,6 +183,7 @@ gui.appliedenergistics2.NoCraftingCPUs=Keine Fertigungs-CPUs verfügbar
 gui.appliedenergistics2.CalculatingWait=Berechnung, bitte warten...
 gui.appliedenergistics2.Clean=Löschen
 gui.appliedenergistics2.InvalidPattern=Ungültige Schablone
+gui.appliedenergistics2.Range=Reichweite
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.

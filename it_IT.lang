@@ -183,6 +183,7 @@ gui.appliedenergistics2.NoCraftingCPUs=Nessun di fabbricazione è avviabile
 gui.appliedenergistics2.CalculatingWait=Calcolando, aspettare...
 gui.appliedenergistics2.Clean=Clean
 gui.appliedenergistics2.InvalidPattern=Modello invalido
+gui.appliedenergistics2.Range=Raggio
 
 gui.tooltips.appliedenergistics2.Stash=Oggetti immagazinati
 gui.tooltips.appliedenergistics2.StashDesc=Manda gli oggetti sulla griglia di fabbricazione nel deposito del network.

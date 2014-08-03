@@ -184,6 +184,8 @@ gui.appliedenergistics2.CalculatingWait=Calcolando, aspettare...
 gui.appliedenergistics2.Clean=Clean
 gui.appliedenergistics2.InvalidPattern=Modello invalido
 gui.appliedenergistics2.Range=Raggio
+gui.appliedenergistics2.TransparentFacades=Facciate trasparenti
+gui.appliedenergistics2.TransparentFacadesHint=Controlla la visibilità della facciata mentre il Attrezzo per network a portata di mano.
 
 gui.tooltips.appliedenergistics2.Stash=Oggetti immagazinati
 gui.tooltips.appliedenergistics2.StashDesc=Manda gli oggetti sulla griglia di fabbricazione nel deposito del network.

@@ -184,6 +184,8 @@ gui.appliedenergistics2.CalculatingWait=Calculating Please Wait...
 gui.appliedenergistics2.Clean=Clean
 gui.appliedenergistics2.InvalidPattern=Invalid Pattern
 gui.appliedenergistics2.Range=Range
+gui.appliedenergistics2.TransparentFacades=Transparent Facades
+gui.appliedenergistics2.TransparentFacadesHint=Controls visibility of facades while the network tool is on your toolbar.
 
 gui.tooltips.appliedenergistics2.Stash=Store Items
 gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.

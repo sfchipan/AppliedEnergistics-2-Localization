@@ -103,7 +103,7 @@ gui.appliedenergistics2.Priority=Priorität
 gui.appliedenergistics2.StorageBus=Speicherbus
 gui.appliedenergistics2.EnergyDrain=Passivverbrauch
 gui.appliedenergistics2.Installed=Installiert
-gui.appliedenergistics2.NetworkTool=Netzwerk-Werkzeug
+gui.appliedenergistics2.NetworkTool=Netzwerksonde
 gui.appliedenergistics2.PowerUsageRate=Energienutzung
 gui.appliedenergistics2.PowerInputRate=Energiespeisung
 gui.appliedenergistics2.PortableCell=Tragbare Zelle
@@ -184,6 +184,8 @@ gui.appliedenergistics2.CalculatingWait=Berechnung, bitte warten...
 gui.appliedenergistics2.Clean=Löschen
 gui.appliedenergistics2.InvalidPattern=Ungültige Schablone
 gui.appliedenergistics2.Range=Reichweite
+gui.appliedenergistics2.TransparentFacades=Transparente Fassaden
+gui.appliedenergistics2.TransparentFacadesHint=Kontrolliert Sichtbarkeit von Fassaden, währen sich die Netzwerksonde in deiner Hotbar befindet.
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.
@@ -410,7 +412,7 @@ item.appliedenergistics2.ToolNetherQuartzWrench.name=Netherquarzschraubenschlüs
 
 item.appliedenergistics2.ItemPaintBall.name=Farbball
 item.appliedenergistics2.ToolPortableCell.name=Tragbare Zelle
-item.appliedenergistics2.ToolNetworkTool.name=Netzwerk-Werkzeug
+item.appliedenergistics2.ToolNetworkTool.name=Netzwerksonde
 item.appliedenergistics2.ToolChargedStaff.name=Geladener Stab
 item.appliedenergistics2.ToolEntropyManipulator.name=Entropiemanipulator
 item.appliedenergistics2.ToolMassCannon.name=Materiekanone

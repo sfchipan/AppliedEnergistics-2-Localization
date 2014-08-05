@@ -186,6 +186,8 @@ gui.appliedenergistics2.InvalidPattern=Invalid Pattern
 gui.appliedenergistics2.Range=Range
 gui.appliedenergistics2.TransparentFacades=Transparent Facades
 gui.appliedenergistics2.TransparentFacadesHint=Controls visibility of facades while the network tool is on your toolbar.
+gui.appliedenergistics2.CPUs=CPU
+gui.appliedenergistics2.NoCraftingJobs=No Crafting Job Active
 
 gui.tooltips.appliedenergistics2.Stash=Store Items
 gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.

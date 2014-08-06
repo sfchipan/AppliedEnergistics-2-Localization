@@ -258,6 +258,7 @@ gui.tooltips.appliedenergistics2.LevelType=Tipo di livello
 gui.tooltips.appliedenergistics2.LevelType_Energy=Energia
 gui.tooltips.appliedenergistics2.LevelType_Item=Oggetti
 gui.tooltips.appliedenergistics2.InventoryTweaks=Inventory Tweaks
+gui.tooltips.appliedenergistics2.Mod=Mod
 gui.tooltips.appliedenergistics2.TerminalStyle=Stile terminale
 gui.tooltips.appliedenergistics2.TerminalStyle_Full=Terminale schermo intero
 gui.tooltips.appliedenergistics2.TerminalStyle_Tall=Terminale centrato grande

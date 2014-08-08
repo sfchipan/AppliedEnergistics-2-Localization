@@ -310,6 +310,7 @@ item.appliedenergistics2.ItemFacade.name=Cable Facade
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=Certus Quartz Seed
 item.appliedenergistics2.ItemCrystalSeed.Nether.name=Nether Quartz Seed
 item.appliedenergistics2.ItemCrystalSeed.Fluix.name=Fluix Seed
+item.appliedenergistics2.ItemMaterial.InvalidType.name=This Item Is Disabled.
 item.appliedenergistics2.ItemMaterial.AdvCard.name=Advanced Card
 item.appliedenergistics2.ItemMaterial.AnnihilationCore.name=Annihilation Core
 item.appliedenergistics2.ItemMaterial.BasicCard.name=Basic Card

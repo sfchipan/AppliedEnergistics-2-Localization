@@ -310,6 +310,7 @@ item.appliedenergistics2.ItemFacade.name=Facciata per cavo
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=Seme di quarzo certus
 item.appliedenergistics2.ItemCrystalSeed.Nether.name=Seme di quarzo degli Inferi
 item.appliedenergistics2.ItemCrystalSeed.Fluix.name=Seme di fluix
+item.appliedenergistics2.ItemMaterial.InvalidType.name=Quest'oggetto è disabilitato.
 item.appliedenergistics2.ItemMaterial.AdvCard.name=Scheda avanzata
 item.appliedenergistics2.ItemMaterial.AnnihilationCore.name=Nucleo di annientamento
 item.appliedenergistics2.ItemMaterial.BasicCard.name=Scheda base

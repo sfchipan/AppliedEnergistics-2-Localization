@@ -263,6 +263,7 @@ gui.tooltips.appliedenergistics2.TerminalStyle=Stile terminale
 gui.tooltips.appliedenergistics2.TerminalStyle_Full=Terminale schermo intero
 gui.tooltips.appliedenergistics2.TerminalStyle_Tall=Terminale centrato grande
 gui.tooltips.appliedenergistics2.TerminalStyle_Small=Terminale centrato piccolo
+gui.tooltips.appliedenergistics2.DosntDespawn=Questo oggetto non scomparirà (de-spawn).
 
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=Minecraft Joules

@@ -156,6 +156,7 @@ gui.appliedenergistics2.inWorldPurificationNether=Wirf etwas Netherquarzsaat, ge
 gui.appliedenergistics2.inWorldPurificationFluix=Wirf etwas Fluix-Saat, gemacht aus Fluix-Staub und Sand, in eine Pfütze Wasser; um den Prozess zu beschleunigen, füge Kristallwachstumsbeschleuniger hinzu.
 gui.appliedenergistics2.inWorldSingularity=Wirf zum Erschaffen 1 Singularität und 1 Enderstaub zusammen und erzeuge in Reichweite der Items eine Explosion.
 gui.appliedenergistics2.ChargedQuartz=Geladener Certusquarz entsteht durch Einfügen eines Ungeladenen Certusquarzkristalls in ein Ladegerät, das Energie erhält.
+gui.appliedenergistics2.ChargedQuartzFind=Geladener Certusquarz kann relativ selten in der Welt gefunden werden, es sieht aus wie gewöhnliches Certusquarz, aber es funkelt.
 gui.appliedenergistics2.OfSecondOutput=% Chance für Nebenprodukt.
 gui.appliedenergistics2.NoSecondOutput=Kein Nebenprodukt
 gui.appliedenergistics2.SelectAmount=Menge wählen
@@ -188,6 +189,8 @@ gui.appliedenergistics2.TransparentFacades=Transparente Fassaden
 gui.appliedenergistics2.TransparentFacadesHint=Kontrolliert Sichtbarkeit von Fassaden, währen sich die Netzwerksonde in deiner Hotbar befindet.
 gui.appliedenergistics2.CPUs=CPU
 gui.appliedenergistics2.NoCraftingJobs=Kein aktiver Fertigungsauftrag
+gui.appliedenergistics2.FacadeCrafting=Fassadenfertigung
+gui.appliedenergistics2.inWorldCraftingPresses=Gravurdrucke sind im Zentrum von Meteoriten zu finden, welche man in der Welt gelegentlich sieht; sie können mit Hilfe eines Meteoritenkompasses lokalisiert werden.
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.

@@ -437,3 +437,10 @@ item.appliedenergistics2.ToolBiometricCard.name=Biometriekarte
 
 item.appliedenergistics2.ToolDebugCard.name=Dev.Debug-Karte
 item.appliedenergistics2.ToolReplicatorCard.name=Dev.Replikator-Karte
+
+commands.ae2.usage=Befehle verfügbar in Applied Energistics 2 - Verwende '/ae2 list' für eine Liste und '/ae2 help _____' für Hilfe zu einem Befehl.
+commands.ae2.permissions=Du hast nicht die erforderlichen Berechtigungen, um diesen Befehl auszuführen.
+commands.ae2.ChunkLogger=Schalted das Berichten von Chunk-Loading und Chunk-Unloading im Server-log um. ( OP )
+commands.ae2.ChunkLoggerOn=Chunk Logging ist nun aktiviert
+commands.ae2.ChunkLoggerOff=Chunk Logging is nun deaktiviert
+commands.ae2.Supporters=Zeigt eine Liste aller AE2-Unterstützer

@@ -437,3 +437,10 @@ item.appliedenergistics2.ToolBiometricCard.name=Biometric Card
 
 item.appliedenergistics2.ToolDebugCard.name=Dev.DebugCard
 item.appliedenergistics2.ToolReplicatorCard.name=Dev.ReplicatorCard
+
+commands.ae2.usage=Commands provided by Applied Energistics 2 - use /ae2 list for a list, and /ae2 help _____ for help with a command.
+commands.ae2.permissions=You do not have adequate permissions to run this command.
+commands.ae2.ChunkLogger=Toggles Chunk Loading and unloading to the server log. ( OP )
+commands.ae2.ChunkLoggerOn=Chunk Logging is now on
+commands.ae2.ChunkLoggerOff=Chunk Logging is now off
+commands.ae2.Supporters=Displays a list of AE2 Supporters

@@ -46,8 +46,8 @@ tile.appliedenergistics2.BlockCraftingStorage.name=1k合成存储器
 tile.appliedenergistics2.BlockCraftingStorage4k.name=4k合成存储器
 tile.appliedenergistics2.BlockCraftingStorage16k.name=16k合成存储器
 tile.appliedenergistics2.BlockCraftingStorage64k.name=64k合成存储器
-tile.appliedenergistics2.BlockCraftingAccelerator.name=合成并行处理器
-tile.appliedenergistics2.BlockCraftingUnit.name=合成处理器
+tile.appliedenergistics2.BlockCraftingAccelerator.name=并行处理单元
+tile.appliedenergistics2.BlockCraftingUnit.name=合成单元
 tile.appliedenergistics2.BlockMolecularAssembler.name=分子装配室
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME箱子无法读取存储元件.
@@ -178,7 +178,7 @@ gui.appliedenergistics2.Start=开始
 gui.appliedenergistics2.Missing=缺失
 gui.appliedenergistics2.Bytes=可存储
 gui.appliedenergistics2.Simulation=Simulation
-gui.appliedenergistics2.CoProcessors=并行处理器
+gui.appliedenergistics2.CoProcessors=并行处理单元
 gui.appliedenergistics2.CraftingCPU=合成CPU
 gui.appliedenergistics2.NoCraftingCPUs=没有可用的合成CPU...
 gui.appliedenergistics2.CalculatingWait=正在计算,请等待...
@@ -277,7 +277,7 @@ gui.tooltips.appliedenergistics2.ReportInaccessibleItemsNo=否: 只显示可以�
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.buildcraft=MJ
 gui.appliedenergistics2.units.ic2=EU
-gui.appliedenergistics2.units.universalelectricity=Joules
+gui.appliedenergistics2.units.mekanism=Joules
 gui.appliedenergistics2.units.rotarycraft=Watts
 gui.appliedenergistics2.units.thermalexpansion=RF
 
@@ -377,7 +377,7 @@ item.appliedenergistics2.ItemMaterial.NamePress.name=名称压印模板
 item.appliedenergistics2.ItemMaterial.SkyDust.name=陨石粉
 item.appliedenergistics2.ItemMaterial.CardCrafting.name=合成卡
 
-item.appliedenergistics2.ItemPart.AnnihilationPlane.name=破坏面板
+item.appliedenergistics2.ItemPart.AnnihilationPlane.name=ME破坏面板
 item.appliedenergistics2.ItemPart.CableAnchor.name=线缆锚
 item.appliedenergistics2.ItemPart.CableCovered.name=ME包层线缆
 item.appliedenergistics2.ItemPart.CableGlass.name=ME玻璃线缆
@@ -437,3 +437,10 @@ item.appliedenergistics2.ToolBiometricCard.name=身份卡
 
 item.appliedenergistics2.ToolDebugCard.name=Dev.调试卡
 item.appliedenergistics2.ToolReplicatorCard.name=Dev.复制卡
+
+commands.ae2.usage=ae2提供的指令 - 输入/ae2 list查看指令列表,/ae2 help _____查看指令帮助.
+commands.ae2.permissions=你没有足够的权限来执行该指令.
+commands.ae2.ChunkLogger=是否向服务器日志打开区块载入与载出信息.(OP)
+commands.ae2.ChunkLoggerOn=区块日志已打开
+commands.ae2.ChunkLoggerOff=区块日志已关闭
+commands.ae2.Supporters=显示ae2支持者列表

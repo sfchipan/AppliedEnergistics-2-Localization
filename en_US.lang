@@ -191,6 +191,11 @@ gui.appliedenergistics2.CPUs=CPU
 gui.appliedenergistics2.NoCraftingJobs=No Crafting Job Active
 gui.appliedenergistics2.FacadeCrafting=Facade Crafting
 gui.appliedenergistics2.inWorldCraftingPresses=Crafting Presses are found in the center of meteorites which can be found in around the world, they can be located by using a meteorite compass.
+gui.appliedenergistics2.Included=Included
+gui.appliedenergistics2.Excluded=Excluded
+gui.appliedenergistics2.Partitioned=Partitioned
+gui.appliedenergistics2.Precise=Precise
+gui.appliedenergistics2.Fuzzy=Fuzzy
 
 gui.tooltips.appliedenergistics2.Stash=Store Items
 gui.tooltips.appliedenergistics2.StashDesc=Return items on the crafting grid to network storage.

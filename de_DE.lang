@@ -191,6 +191,11 @@ gui.appliedenergistics2.CPUs=CPU
 gui.appliedenergistics2.NoCraftingJobs=Kein aktiver Fertigungsauftrag
 gui.appliedenergistics2.FacadeCrafting=Fassadenfertigung
 gui.appliedenergistics2.inWorldCraftingPresses=Gravurdrucke sind im Zentrum von Meteoriten zu finden, welche man in der Welt gelegentlich sieht; sie können mit Hilfe eines Meteoritenkompasses lokalisiert werden.
+gui.appliedenergistics2.Included=Einschließlich
+gui.appliedenergistics2.Excluded=Ausschließlich
+gui.appliedenergistics2.Partitioned=Partitioniert
+gui.appliedenergistics2.Precise=Präzise
+gui.appliedenergistics2.Fuzzy=Ungenau
 
 gui.tooltips.appliedenergistics2.Stash=Items lagern
 gui.tooltips.appliedenergistics2.StashDesc=Items aus dem Fertigungsgitter in Netzwerkspeicher zurücksenden.

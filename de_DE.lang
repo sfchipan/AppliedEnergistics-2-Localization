@@ -404,8 +404,8 @@ item.appliedenergistics2.ItemPart.PatternTerminal.name=ME-Schablonenkonsole
 item.appliedenergistics2.ItemPart.QuartzFiber.name=Quarzfaser
 item.appliedenergistics2.ItemPart.StorageBus.name=ME-Speicherbus
 item.appliedenergistics2.ItemPart.Terminal.name=ME-Konsole
-item.appliedenergistics2.ItemPart.InvertedToggleBus.name=Invertierter ME-Wechselbus
-item.appliedenergistics2.ItemPart.ToggleBus.name=ME-Wechselbus
+item.appliedenergistics2.ItemPart.InvertedToggleBus.name=Invertierter schaltbarer ME-Bus
+item.appliedenergistics2.ItemPart.ToggleBus.name=Schaltbarer ME-Bus
 item.appliedenergistics2.ItemPart.CraftingMonitor.name=ME-Fertigungsmonitor
 item.appliedenergistics2.ItemPart.InterfaceTerminal.name=ME-Schnittstellenkonsole
 

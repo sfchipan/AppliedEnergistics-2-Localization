@@ -20,7 +20,7 @@ tile.appliedenergistics2.BlockQuantumRing.name=ME-Quantentunnelring
 tile.appliedenergistics2.BlockFluix.name=Fluix-Block
 tile.appliedenergistics2.BlockQuartz.name=Certusquarzblock
 tile.appliedenergistics2.BlockQuartzChiseled.name=Gemeißelter Certusquarzblock
-tile.appliedenergistics2.BlockQuartzGlass.name=Quarzglass
+tile.appliedenergistics2.BlockQuartzGlass.name=Quarzglas
 tile.appliedenergistics2.BlockQuartzLamp.name=Polarisiertes Quarzglas
 tile.appliedenergistics2.BlockQuartzPillar.name=Certusquarzsäule
 tile.appliedenergistics2.BlockQuartzTorch.name=Geladene Quarzleuchte
@@ -52,7 +52,7 @@ tile.appliedenergistics2.BlockMolecularAssembler.name=Molekularassembler
 
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME-Truhe kann Speicherzelle nicht einlesen.
 chat.appliedenergistics2.SettingCleared=Einstellung gelöscht.
-chat.appliedenergistics2.OutOfRange=Drahloser Zugangspunkt außer Reichweite.
+chat.appliedenergistics2.OutOfRange=Drahtloser Zugangspunkt außer Reichweite.
 chat.appliedenergistics2.InvalidMachine=Ungültige Maschine.
 chat.appliedenergistics2.LoadedSettings=Einstellungen erfolgreich geladen.
 chat.appliedenergistics2.DeviceNotPowered=Gerät hat zu wenig Energie
@@ -85,7 +85,7 @@ gui.appliedenergistics2.security.security.name=Sicherheit
 gui.appliedenergistics2.security.extract.tip=Der Nutzer darf Items aus dem Lager nehmen.
 gui.appliedenergistics2.security.inject.tip=Der Nutzer darf neue Items ins Lager legen.
 gui.appliedenergistics2.security.craft.tip=Der Nutzer darf Fertigungsanforderungen stellen.
-gui.appliedenergistics2.security.build.tip=Der Nutzer darf die physische Struktur des Netzwerks verändern und Konfigurationsänderungen vornehmen.
+gui.appliedenergistics2.security.build.tip=Der Nutzer darf die physikalische Struktur des Netzwerks verändern und Konfigurationsänderungen vornehmen.
 gui.appliedenergistics2.security.security.tip=Der Nutzer darf auf die Sicherheitskonsole des Netzwerks zugreifen.
 
 gui.appliedenergistics2.Efficiency=Effizienz

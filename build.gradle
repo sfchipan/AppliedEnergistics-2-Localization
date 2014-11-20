@@ -1,0 +1,43 @@
+// need java plugin for the processResouces and jar task
+apply plugin: "java"
+
+buildscript {
+    repositories {
+        mavenCentral()
+
+        maven {
+            name = "sonatype"
+            url = "https://oss.sonatype.org/content/repositories/snapshots/"
+        }
+    }
+}
+
+version = "rv2"
+
+// set the resouce source directory to the root folder
+sourceSets {
+    main {
+        resources {
+            srcDir "."
+            include "*.lang"
+        }
+    }
+}
+
+// copies the lang files into the correct folder to save the contributors the work to browse through the directory
+task(copyLang, type: Copy) {
+    from "."
+    into "build/resources/main/assets/appliedenergistics2/lang"
+    include "*.lang"
+}
+
+// deletes the original lang files to not create duplicates
+task deleteOriginalLang (type: Delete, dependsOn: processResources) {
+    delete fileTree(dir: "build/resources/main", include: "*.lang")
+}
+tasks.jar.dependsOn deleteOriginalLang
+
+
+processResources {
+    from copyLang
+}

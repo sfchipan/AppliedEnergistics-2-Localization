@@ -50,6 +50,16 @@ tile.appliedenergistics2.BlockCraftingAccelerator.name=Crafting Co-Processing Un
 tile.appliedenergistics2.BlockCraftingUnit.name=Crafting Unit
 tile.appliedenergistics2.BlockMolecularAssembler.name=Molecular Assembler
 
+// Stairs
+tile.appliedenergistics2.ChiseledQuartzStairBlock.name=Chiseled Certus Quartz Stairs
+tile.appliedenergistics2.FluixStairBlock.name=Fluix Stairs
+tile.appliedenergistics2.QuartzPillarStairBlock.name=Certus Quartz Pillar Stairs
+tile.appliedenergistics2.QuartzStairBlock.name=Certus Quartz Stairs
+tile.appliedenergistics2.SkyStoneBlockStairBlock.name=Sky Stone Block Stairs
+tile.appliedenergistics2.SkyStoneBrickStairBlock.name=Sky Stone Brick Stairs
+tile.appliedenergistics2.SkyStoneSmallBrickStairBlock.name=Sky Stone Small Brick Stairs
+tile.appliedenergistics2.SkyStoneStairBlock.name=Sky Stone Stairs
+
 chat.appliedenergistics2.ChestCannotReadStorageCell=ME Chest cannot read storage cell.
 chat.appliedenergistics2.SettingCleared=Setting Cleared.
 chat.appliedenergistics2.OutOfRange=Wireless Out Of Range.
